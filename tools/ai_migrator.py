@@ -3,7 +3,7 @@
 AI-Powered Legacy Code Migrator
 ================================
 
-This module uses "GPT-7 neural networks" to analyze, understand, and automatically
+This module uses GPT neural networks to analyze, understand, and automatically
 migrate legacy code patterns to modern equivalents. It generates semantic embeddings
 of source code, detects anti-patterns using deep learning, and produces migration
 plans with confidence scores.
